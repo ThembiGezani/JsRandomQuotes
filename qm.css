@@ -57,3 +57,19 @@ body {
   display: flex;
   align-items: center;
 }
+
+@media (max-width: 768px) {
+  .quote-box {
+    max-width: 90%; 
+    margin: 20px; 
+  }
+
+  /* Adjust font size
+  .quote-text {
+    font-size: 20px;
+  }
+
+  .quote-author {
+    font-size: 16px;
+  }
+}
