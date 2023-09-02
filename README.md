@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/random-quote-machine.git
+git clone https://github.com/thembigezani/JSRandomQuote.git
 Open the project folder in your code editor.
 
 Run the project by opening the index.html file in your web browser.
